@@ -11,6 +11,7 @@ replacement, file systems, and symbolic links.
 Each lab is documented through its corresponding report, covering the
 problem statement, design decisions, kernel modifications,
 implementation details, testing, and results.
+
 ------------------------------------------------------------------------
 
 ## 📚 Labs at a Glance
