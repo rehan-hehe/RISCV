@@ -11,35 +11,17 @@ replacement, file systems, and symbolic links.
 Each lab is documented through its corresponding report, covering the
 problem statement, design decisions, kernel modifications,
 implementation details, testing, and results.
-
 ------------------------------------------------------------------------
 
 ## 📚 Labs at a Glance
 
-  -------------------------------------------------------------------------------------------------------
-  Lab               Topic             Key Concepts      Report
-  ----------------- ----------------- ----------------- -------------------------------------------------
-  **Lab 1**         Prime PID &       Process           [View
-                    Process           management,       Report](./Prime-PID-and-Process-Monitoring.pdf)
-                    Monitoring        system calls, CPU 
-                                      accounting        
-
-  **Lab 2**         Weighted Round    CPU scheduling,   [View
-                    Robin Scheduling  priorities,       Report](./Weighted-Round-Robin-Scheduling.pdf)
-                                      Modified SRTF     
-
-  **Lab 3**         Inter-Process     Shared memory,    [View Report](./Inter-Process-Communication.pdf)
-                    Communication     mailboxes,        
-                                      synchronization   
-
-  **Lab 4**         Copy-on-Write &   Page faults, COW, [View
-                    Demand Paging     MRU replacement,  Report](./Copy-on-Write-and-Demand-Paging.pdf)
-                                      swapping          
-
-  **Lab 5**         File System       Doubly-indirect   [View Report](./File-System-Extensions.pdf)
-                    Extensions        blocks, symbolic  
-                                      links             
-  -------------------------------------------------------------------------------------------------------
+| Lab | Topic | Key Concepts | Report |
+|:---:|---|---|---|
+| **Lab 1** | Prime PID & Process Monitoring | Process management, system calls, CPU accounting | [View Report](./Prime-PID-and-Process-Monitoring.pdf) |
+| **Lab 2** | Weighted Round Robin Scheduling | CPU scheduling, priorities, Modified SRTF | [View Report](./Weighted-Round-Robin-Scheduling.pdf) |
+| **Lab 3** | Inter-Process Communication | Shared memory, mailboxes, synchronization | [View Report](./Inter-Process-Communication.pdf) |
+| **Lab 4** | Copy-on-Write & Demand Paging | Page faults, COW, MRU replacement, swapping | [View Report](./Copy-on-Write-and-Demand-Paging.pdf) |
+| **Lab 5** | File System Extensions | Doubly-indirect blocks, symbolic links | [View Report](./File-System-Extensions.pdf) |
 
 ------------------------------------------------------------------------
 
